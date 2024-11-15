@@ -16,7 +16,6 @@ Welcome to the **Dog API App**! 🐶✨ This app is built using **React** and st
 
 - **React** - A JavaScript library for building user interfaces ⚛️
 - **TailwindCSS** - A utility-first CSS framework for custom styling 💅
-- **Axios** - For making API requests 📡
 - **Dog CEO's Dog API** - Fetch data for random and breed-specific dog images 🐶
 
 ## ⚡ Installation
