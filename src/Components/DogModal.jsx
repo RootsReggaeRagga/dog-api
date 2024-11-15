@@ -11,7 +11,7 @@ const DogModal = ({ isOpen, dogImage, dogOryginalImage, onClose, onFetchNewImage
                 <img
                     src={dogImage || dogOryginalImage}
                     alt="Pies"
-                    className="my-2 img-custom shadow-lg rounded-lg w-96 h-96 object-cover"
+                    className="my-2 shadow-lg rounded-lg w-96 h-96 object-cover"
                 />
                 <div className="flex justify-between mt-5">
                     <button
