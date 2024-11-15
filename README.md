@@ -77,13 +77,3 @@ We welcome contributions! 🙌 Feel free to fork the repo and submit issues or p
 Get ready to explore an adorable world of dogs! 🐾 Don't forget to share your favorite dog images with your friends! 🐶💙
 
 ---
-
-Stay pawsitive and have fun! 🐕
-```
-
-### Highlights:
-
-- The README is structured with clear sections (Features, Technologies, Installation, Usage, etc.) for easy navigation.
-- Emojis are used throughout the document to add a playful and friendly tone.
-- Sections like **Installation**, **Usage**, and **Contributing** are emphasized for better user engagement.
-- The **Technologies Used** section highlights the main technologies and their purposes.
