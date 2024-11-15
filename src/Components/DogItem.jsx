@@ -22,6 +22,7 @@ const DogItem = ({ dog }) => {
             const response = await fetch(dogImageList);
             const data = await response.json();
             setOriginalDogImage(data.message);
+            setDogImage(data.message);
         } catch (error) {
             console.error('Błąd podczas pobierania obrazu:', error);
         }
@@ -29,6 +30,7 @@ const DogItem = ({ dog }) => {
 
 
     const handleButtonClick = () => {
+        setDogImage(dogOryginalImage);
         setIsModalOpen(true);
     };
 
@@ -54,8 +56,8 @@ const DogItem = ({ dog }) => {
 
             <DogModal
                 isOpen={isModalOpen}
-                dogOryginalImage={dogOryginalImage}
                 dogImage={dogImage}
+                dogOryginalImage={dogOryginalImage}
                 onClose={closeModal}
                 onFetchNewImage={fetchDogImage}
             />
