@@ -19,30 +19,6 @@ Welcome to the **Dog API App**! 🐶✨ This app is built using **React** and st
 - **Axios** - For making API requests 📡
 - **Dog CEO's Dog API** - Fetch data for random and breed-specific dog images 🐶
 
-## 📸 Demo
-
-Here's a quick demo of what you can expect from this app:
-
-![Demo Gif](https://via.placeholder.com/600x300.png?text=Dog+API+App+Demo+GIF)
-
-## 📂 Project Structure
-
-```
-/dog-api-app
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   └── DogImage.js
-│   ├── App.js
-│   └── index.js
-├── tailwind.config.js
-├── package.json
-└── README.md
-```
-
 ## ⚡ Installation
 
 ### 1. Clone this repository
