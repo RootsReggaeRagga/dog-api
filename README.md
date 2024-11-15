@@ -1,5 +1,3 @@
-Certainly! Here's a creative and well-structured README for your repository using React, Tailwind CSS, and the Dog API:
-
 ```markdown
 # 🐕 Dog API App with React & TailwindCSS 🐾
 
