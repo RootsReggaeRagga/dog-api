@@ -27,7 +27,7 @@ Welcome to the **Dog API App**! 🐶✨ This app is built using **React** and st
 git clone https://github.com/RootsReggaeRagga/dog-api.git
 ```
 
-### 2. Install dependencies
+### Install dependencies
 
 Navigate into the project directory and install the required packages:
 
