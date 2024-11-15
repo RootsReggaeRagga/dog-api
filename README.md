@@ -36,7 +36,7 @@ cd dog-api
 npm install
 ```
 
-### 3. Run the App
+### Run the App
 
 After installation, run the development server:
 
