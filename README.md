@@ -54,18 +54,9 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## 🤝 Contributing
 
-We welcome contributions! 🙌 Feel free to fork the repo and submit issues or pull requests to enhance the app.
-
-1. Fork the repository 🧑‍🤝‍🧑
-2. Create a new branch (`git checkout -b feature-name`) 🌱
-3. Make your changes 🛠️
-4. Commit your changes (`git commit -am 'Add feature'`) ✨
-5. Push to the branch (`git push origin feature-name`) 🚀
-6. Open a pull request! 🔄
 
 ## 🐾 Acknowledgments
 
@@ -76,4 +67,3 @@ We welcome contributions! 🙌 Feel free to fork the repo and submit issues or p
 
 Get ready to explore an adorable world of dogs! 🐾 Don't forget to share your favorite dog images with your friends! 🐶💙
 
----
